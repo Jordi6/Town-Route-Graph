@@ -21,22 +21,13 @@ Graph: AB5, BC4, CD8, DC8, DE6, AD5, CE2, EB3, AE7
 Output:
 
 #1: 9
-
 #2: 5
-
 #3: 13
-
 #4: 22
-
 #5: NO SUCH ROUTE
-
 #6: 2
-
 #7: 3
-
 #8: 9
-
 #9: 9
-
 #10: 7
 
